@@ -1,0 +1,7 @@
+python translate_bq.py \
+  --region us-central1 \
+  --job_name translateapi-on-bigquery \
+  --runner DataflowRunner \
+  --project data-analytics-project-234508 \
+  --temp_location gs://chenfeiyu-multi-region-bucket/dataflow/temp \
+  --requirements_file requirements.txt

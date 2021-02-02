@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "data-analytics-project-234508",
+  "private_key_id": "aa307b1c4b32a614ab334bbbab82b630d2c75e6f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDnxZLmaNyG5gI+\nnN60SdCiiu6qu9IFhDpdXUHKB7+OBA+aCOtFVe2DELweeiCBZMLTHNfdtJHM+RZE\n+Qxd1yDQhSf+peFtoEqGVE8kD2hPxjbyOoc/klmi9cYbFEQBcccNaGPVPSFSX9uB\nzksf1hkt3WbXDNiq2afa2G5QImO8GOdutbKHyCEQRlg+Rg0MIfUncYoPFPSkgNnU\nL99H/Dt9yaZ/vkYwHE1JozKBset6YS9+FukFMIS0nTDEfrnBnNc6dAzZid1tpG3I\nzUlkXOApSsc5oAmf7oybHBFVIRy++30ORDFstGkd1GiSw5CMM1ssYPeJeH88NlDG\nAN+Op2E9AgMBAAECggEATFtL/Tq4xHyMasJVoIHdCV/KJ1d/Zq/cZpvtq7iHxCrU\nVQPxNsOLXy2pPEUx5k8i3FhZScJOcn/xdUGzcEsKlYf42C0gKnSveLfX5uJolDeS\nLJVZr3jwrP5ZiNxRV0R7tpAYq8za6H+KGqazG0b2vqR9WAX0b70LTs8U8LOTtgjB\n10EUPmWgI3YET60wb+poJYom14zDPqfU72fIW2jd3h6wSPKajLOQlvUnljHcBuUR\nihG58hE8XErDGgqtT+6HCLI/1TXs3stU6CvY+nMmBEArXzvSjayDv+aKUHU0mHkN\nX4d4uw4uXEpApAfcfnHsRCD60r74f88V5UzqnBHpxQKBgQD4LBPrxISs2lJTIt+Q\nETnhHoIWQ7LAxqHBCzRadenYv3LnFs43N5bozEcZAUq1CEL6EEfxba2Ln6a7ulBb\n5N4I/BAP7g7OzCvShBkfjdsthBpxiDzL0y4lfbpOwykXytD8X2Hxh7l8awjYJjfM\nSn2Ys18OUlS/WVd6EuH1oo8+awKBgQDvFRE2ZpGSbsTkU56Lt4OvodlPqJOl2lle\ncODF0TcphdWre6MgLugk8WSzgVu4h5DYzVLZns0n5encUJPYQLMywEdDuSC1Gnqp\nSfuiZ/bZaYj7B/ax61pn2FAIFip4KH6Fj621hPoN2zUsZZF2qYXrweZtchICRma7\nnTw/n5B49wKBgQDenoOcOiQd/pZc12qejKVUCQ7+s+nUvhn51ng3MZD9CvgizjVc\nGPS5jg21I5CFhoy2TwaKTy2fky55Ni/BzzNR8fLip1UHMuWYqUD0KkdTtC4Ya/LF\nkIHTxc3ru2vQWPJRgaqVhH/iWQ2M//OLwcKayUTazwYQxC8RZYDm3NUMUwKBgQCn\nIqwowqVrn+Im2EoS1FTL2DJp3KhzHmSxf+mygKK2dWg8/C66lfAVu2cxkfID20mo\nNkl/9uLmzHSjXvUsDXb4uLBZKLczw/ISHLU8AL/xlzR6gUO1d5l41SCFtrEz1OM2\nDY5bQj3op+DRS6PYN4R2ntOumTr7uimhaLcwpyTBWwKBgB7rSf1PLEdId202vSjr\neSxveXnNy1s1Ghehk5SOMm4jcwJsrWjpcuINyetUPS3tW895daKUARkxVGGOSfdS\ny9GOKIQ5FDvEcYY0bd/DNctn2HMlhjMLUXK9XGXBBwKoWXzSu2Ul7hD+hHC1fS8z\nJKm3eg7wDekGmBuYs+ubd5Ih\n-----END PRIVATE KEY-----\n",
+  "client_email": "get-ga360rawdata@data-analytics-project-234508.iam.gserviceaccount.com",
+  "client_id": "102763157552340313755",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/get-ga360rawdata%40data-analytics-project-234508.iam.gserviceaccount.com"
+}
